@@ -1,0 +1,6 @@
+Tailwind CSS
+- It's a framework made up of utility classes. (Framework packed with utility classes
+  hence an easy way to create stunnig websites faster).
+- Much lower-level than bootstrap and materialize (have fully styled components)e.t.c
+- You can make reusable components in tailwind.
+- 
